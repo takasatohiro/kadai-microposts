@@ -1,3 +1,10 @@
+## Microposts
+サインイン、ログイン、ログアウト、投稿機能、削除機能、お気に入り機能、といった基本的な
+機能をつけたWebサービスです。
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
